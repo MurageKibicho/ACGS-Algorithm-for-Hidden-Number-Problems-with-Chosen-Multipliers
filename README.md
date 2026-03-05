@@ -1,8 +1,9 @@
 # RSA and Rabin Functions: Certain Parts are as Hard as the Whole (Alexi et al., 1988) LeetArxiv Implementation
 
+![Abstract](Abstract.png)
+
+
 This coding guide is best followed alongside this [LeetArxiv article link](https://leetarxiv.substack.com/p/acgs-algorithm-for-hidden-number).
-
-
 
 The paper, *RSA and Rabin Functions: Certain Parts are as Hard as the Whole* , introduces the **Alexi-Chor-Goldreich-Schnorr**(ACGS) algorithm for polynomial-time solutions to Hidden Number Problems with Chosen Multipliers (HNP-CM).
 
@@ -29,4 +30,5 @@ We go over the entire codebase in this [LeetArxiv article](https://leetarxiv.sub
 ## Getting Started
 You can code alongside the [Google Colab Notebook](https://colab.research.google.com/drive/1rBY2SexlFyGqj8EV9c4sBzfSMBNK7iGG#scrollTo=fnw2_s8vVS8F) or clone the repo and run the jupyter notebook using:
 ```
+git clone https://github.com/MurageKibicho/ACGS-Algorithm-for-Hidden-Number-Problems-with-Chosen-Multipliers.git
 ```
